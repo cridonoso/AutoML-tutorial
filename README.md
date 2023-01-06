@@ -20,3 +20,8 @@ Once locally,
 - `H2o.ipynb`: H2o Tutorial  
 -  `AutoML_SLIDES`: Presentation slides
 - `README.md`: Repository README
+
+### Windows warning! :warning:
+In order to run H2O on windows, it is necessary to install Java<13 (currently version == 19). 
+
+[Click here to download version 13.0](https://www.filehorse.com/es/descargar-java-development-kit-64/46499/descargar/)
