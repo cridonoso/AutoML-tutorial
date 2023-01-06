@@ -25,3 +25,6 @@ Once locally,
 In order to run H2O on windows, it is necessary to install Java<13 (currently version == 19). 
 
 [Click here to download version 13.0](https://www.filehorse.com/es/descargar-java-development-kit-64/46499/descargar/)
+
+FROM Anaconda prompt you can use: 
+`conda install -c -conda-forge h2o-py openjdk`
