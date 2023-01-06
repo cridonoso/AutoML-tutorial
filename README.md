@@ -2,9 +2,9 @@
 ## [MIT-Chile workshop 2023](https://sites.google.com/media.mit.edu/mit-chile-hcai-viz/2023-concepcion/student-cohort)
 
 
-### Download data 
-All data can be downloaded from [google drive](https://drive.google.com/file/d/1Zzd2VvGQi3jMedu5zCts2cG6ZXEH37Mr/view?usp=sharing). 
-Once locally, 
+### Download data
+All data can be downloaded from [google drive](https://drive.google.com/file/d/1Zzd2VvGQi3jMedu5zCts2cG6ZXEH37Mr/view?usp=sharing).
+Once locally,
 1. Download the zip file called (`data.zip`)
 2. Put the `weather` folder and `water.csv` file into the `./data` folder (you should create if not exists)
 
@@ -16,6 +16,7 @@ Once locally,
     - `raw/raw_meta.csv`: Labels and images paths
   - `water.csv`: Accumulated water from [Chilean Ministery of Science](https://github.com/MinCiencia/Datos-CambioClimatico/tree/main/output/agua24_dmc)       
 - `Ludwig-Tutorial.ipynb`: Ludwig tutorial  
-- `config.yaml`: Config file needed for Ludwig tutorial 
+- `config.yaml`: Config file needed for Ludwig tutorial
 - `H2o.ipynb`: H2o Tutorial  
+-  `AutoML_SLIDES`: Presentation slides
 - `README.md`: Repository README
